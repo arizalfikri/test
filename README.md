@@ -1,6 +1,8 @@
-buat file .env dan isi 
-```js BASE_URL=https://be-ksp.analitiq.id/ ```
+## Installation
 
-kemudian jalankan perintah
-```js npm install ```
-```js npm run dev ```
+Install my-project with npm
+
+```bash
+  npm install
+  npm run dev
+```
